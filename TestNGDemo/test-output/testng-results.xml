@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-18T12:46:29 IST" name="AppSuite" finished-at="2024-06-18T12:46:29 IST" duration-ms="119">
+    <groups>
+    </groups>
+    <test started-at="2024-06-18T12:46:29 IST" name="SmokeTest" finished-at="2024-06-18T12:46:29 IST" duration-ms="49">
+      <class name="com.maveric.project.SampleTestClass1">
+        <test-method is-config="true" signature="sampleTestBeforeTest()[pri:0, instance:com.maveric.project.SampleTestClass1@729d991e]" started-at="2024-06-18T12:46:29 IST" name="sampleTestBeforeTest" finished-at="2024-06-18T12:46:29 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sampleTestBeforeTest -->
+        <test-method is-config="true" signature="sampleTestBeforeClass()[pri:0, instance:com.maveric.project.SampleTestClass1@729d991e]" started-at="2024-06-18T12:46:29 IST" name="sampleTestBeforeClass" finished-at="2024-06-18T12:46:29 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sampleTestBeforeClass -->
+        <test-method signature="sampleTest2TestScenario2()[pri:1, instance:com.maveric.project.SampleTestClass1@729d991e]" started-at="2024-06-18T12:46:29 IST" name="sampleTest2TestScenario2" finished-at="2024-06-18T12:46:29 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sampleTest2TestScenario2 -->
+        <test-method signature="sampleTest1TestScenario1()[pri:2, instance:com.maveric.project.SampleTestClass1@729d991e]" started-at="2024-06-18T12:46:29 IST" name="sampleTest1TestScenario1" finished-at="2024-06-18T12:46:29 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sampleTest1TestScenario1 -->
+        <test-method is-config="true" signature="sampleTestAfterTest()[pri:0, instance:com.maveric.project.SampleTestClass1@729d991e]" started-at="2024-06-18T12:46:29 IST" name="sampleTestAfterTest" finished-at="2024-06-18T12:46:29 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sampleTestAfterTest -->
+        <test-method is-config="true" signature="sampleTestAfterClass()[pri:0, instance:com.maveric.project.SampleTestClass1@729d991e]" started-at="2024-06-18T12:46:29 IST" name="sampleTestAfterClass" finished-at="2024-06-18T12:46:29 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sampleTestAfterClass -->
+      </class> <!-- com.maveric.project.SampleTestClass1 -->
+    </test> <!-- SmokeTest -->
+    <test started-at="2024-06-18T12:46:29 IST" name="EndtoENd" finished-at="2024-06-18T12:46:29 IST" duration-ms="1">
+      <class name="com.maveric.project.TestSuite">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:com.maveric.project.TestSuite@593aaf41]" started-at="2024-06-18T12:46:29 IST" name="beforeSuite" finished-at="2024-06-18T12:46:29 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:com.maveric.project.TestSuite@593aaf41]" started-at="2024-06-18T12:46:29 IST" name="afterSuite" finished-at="2024-06-18T12:46:29 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.maveric.project.TestSuite -->
+    </test> <!-- EndtoENd -->
+  </suite> <!-- AppSuite -->
+</testng-results>

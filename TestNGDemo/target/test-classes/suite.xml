@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="AppSuite">
+  <test name="SmokeTest">
+    <classes>
+     <class name="com.maveric.project.TestSuite"/>
+      <class name="com.maveric.project.SampleTestClass1"/>
+      <class name="com.maveric.project.SampleTestClass2"/>
+    </classes>
+  </test> <!-- Test -->
+  
+  <test name="EndtoENd">
+    <classes>
+      <class name="com.maveric.project.SampleTestClass3"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
